@@ -1,0 +1,13 @@
+{
+  "name": "@elevation/hiring-calculator",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "test": "vitest run hiring-decision.test.ts" },
+  "devDependencies": { "vitest": "5.1.0" },
+  "exports": {
+    ".": "./hiring-decision.ts",
+    "./meta-advisor-errors": "./meta-advisor-errors.ts"
+  },
+  "description": "Pre-existing Elevation/LV8N calculator, owned by Teresa; not event-created work",
+  "license": "SEE LICENSE IN OWNER-NOTICE.md"
+}

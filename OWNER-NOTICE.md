@@ -1,0 +1,2 @@
+# Owner authorization and provenance
+Teresa identifies Elevation/LV8N and this calculator as her own work and authorized public GitHub submission and separation as a dependency. This is pre-existing work, not claimed as event-created. No broad third-party/open-source license is invented here. Third-party packages retain their own licenses. A general reuse license may be selected by the owner separately.
